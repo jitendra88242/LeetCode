@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jitendra88242/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/jitendra88242/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/jitendra88242/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/jitendra88242/LeetCode/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jitendra88242/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/jitendra88242/LeetCode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/jitendra88242/LeetCode/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
 |  |
 | ------- |
