@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jitendra88242/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jitendra88242/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/jitendra88242/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jitendra88242/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jitendra88242/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/jitendra88242/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jitendra88242/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jitendra88242/LeetCode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/jitendra88242/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jitendra88242/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jitendra88242/LeetCode/tree/master/0268-missing-number) |
 ## Counting
 |  |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/jitendra88242/LeetCode/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/jitendra88242/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
