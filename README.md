@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jitendra88242/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/jitendra88242/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jitendra88242/LeetCode/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/jitendra88242/LeetCode/tree/master/2235-add-two-integers) |
 ## Prefix Sum
 |  |
 | ------- |
