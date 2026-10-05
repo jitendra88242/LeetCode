@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jitendra88242/LeetCode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jitendra88242/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jitendra88242/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/jitendra88242/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jitendra88242/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jitendra88242/LeetCode/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jitendra88242/LeetCode/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jitendra88242/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jitendra88242/LeetCode/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jitendra88242/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -272,4 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/jitendra88242/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/jitendra88242/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
