@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jitendra88242/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/jitendra88242/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
