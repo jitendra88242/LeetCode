@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/jitendra88242/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/jitendra88242/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/jitendra88242/LeetCode/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jitendra88242/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/jitendra88242/LeetCode/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/jitendra88242/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jitendra88242/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jitendra88242/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jitendra88242/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/jitendra88242/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jitendra88242/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/jitendra88242/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/jitendra88242/LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/jitendra88242/LeetCode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/jitendra88242/LeetCode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/jitendra88242/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jitendra88242/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jitendra88242/LeetCode/tree/master/0268-missing-number) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/jitendra88242/LeetCode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/jitendra88242/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/jitendra88242/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/jitendra88242/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jitendra88242/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/jitendra88242/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/jitendra88242/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/jitendra88242/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/jitendra88242/LeetCode/tree/master/0234-palindrome-linked-list) |
