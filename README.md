@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/jitendra88242/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jitendra88242/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/jitendra88242/LeetCode/tree/master/2643-row-with-maximum-ones) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jitendra88242/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/jitendra88242/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/jitendra88242/LeetCode/tree/master/0268-missing-number) |
 | [2235-add-two-integers](https://github.com/jitendra88242/LeetCode/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/jitendra88242/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
